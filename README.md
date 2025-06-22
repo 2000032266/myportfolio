@@ -2,7 +2,6 @@
 
 A modern, responsive portfolio website designed for students to showcase their skills, projects, and achievements. Built with HTML5, CSS3, and vanilla JavaScript.
 
-![Portfolio Preview](images/portfolio-preview.png)
 
 ## 🌟 Features
 
@@ -34,8 +33,6 @@ My_Portfolio/
 │   └── script.js          # Interactive functionality
 ├── images/
 │   └── (your images here) # Portfolio images
-├── .github/
-│   └── copilot-instructions.md
 └── README.md
 ```
 
