@@ -140,9 +140,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you have any questions or need help customizing your portfolio, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **Email**: 2000032266cse@gmail.com
+- **GitHub**: [@2000032266](https://github.com/2000032266)
+- **LinkedIn**: Shaik China Moulali](https://linkedin.com/in/shaikchinamoulali)
 
 ---
 
