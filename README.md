@@ -142,7 +142,7 @@ If you have any questions or need help customizing your portfolio, feel free to 
 
 - **Email**: 2000032266cse@gmail.com
 - **GitHub**: [@2000032266](https://github.com/2000032266)
-- **LinkedIn**: Shaik China MOulali](https://linkedin.com/in/shaikchinamoulali)
+- **LinkedIn**: Shaik China Moulali](https://linkedin.com/in/shaikchinamoulali)
 
 ---
 
